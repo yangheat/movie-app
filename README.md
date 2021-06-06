@@ -8,6 +8,7 @@ React JS Fundamentals Course
 npm i -g npx
 npx create-react-app movie-app
 npm i prop-types
+npm i axios
 ```
 
 ## start
