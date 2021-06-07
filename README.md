@@ -15,4 +15,5 @@ npm i axios
 
 ```
 npm start
+npm run deploy
 ```
