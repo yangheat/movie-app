@@ -1,6 +1,4 @@
-# Novie App
-
-React JS Fundamentals Course
+# Normard Corder - ReactJS로 웹사이트 만들기
 
 ## install
 
